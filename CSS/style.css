@@ -1,0 +1,62 @@
+body{
+font-family: 'Lato', sans-serif;
+}
+
+.navbar{
+    border-radius: 0.8em;
+    overflow: hidden;
+    z-index: 20;
+    opacity: 0.9;
+}
+.dropdown-menu{
+    z-index: 20;
+    overflow: hidden;
+}
+.dropdown-item{
+    z-index: 20;
+    overflow: hidden;
+}
+.carousel{
+    margin-top: -55px;
+/*    z-index: 1;*/
+    margin-left: -124px;
+    margin-right: -123px;
+}
+
+.card{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.middle-images .mid{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.middle-images img{
+    margin:60px 60px;
+}
+.middle-images .card-body{
+    text-align: center;
+}
+hr{
+    margin-left: -124px;
+    margin-right: -123px;
+}
+.sections{
+    margin-top: 20px;
+}
+.section1 img{
+    float: right;
+}
+.section3 img{
+    float: right;
+}
+
+
+.sections .text{
+    text-align: center;
+    margin-top: 150px;
+    color: #6C757D;
+}
+
+
+
